@@ -1,0 +1,15 @@
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\bin\Debug\net6.0\guestbook-c-sharp.exe
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\bin\Debug\net6.0\guestbook-c-sharp.deps.json
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\bin\Debug\net6.0\guestbook-c-sharp.runtimeconfig.json
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\bin\Debug\net6.0\guestbook-c-sharp.dll
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\bin\Debug\net6.0\guestbook-c-sharp.pdb
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.csproj.AssemblyReference.cache
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.AssemblyInfoInputs.cache
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.AssemblyInfo.cs
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.dll
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\refint\guestbook-c-sharp.dll
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.pdb
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\guestbook-c-sharp.genruntimeconfig.cache
+C:\Users\Matt\Documents\Repositories\guestbook-c-sharp\guestbook-c-sharp\guestbook-c-sharp\obj\Debug\net6.0\ref\guestbook-c-sharp.dll
